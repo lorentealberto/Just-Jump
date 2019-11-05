@@ -24737,7 +24737,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.cnds.IsSilent,
 	cr.plugins_.Function.prototype.cnds.OnFunction,
 	cr.plugins_.CordovaAdmobFree.prototype.acts.loadBanner,
-	cr.plugins_.CordovaAdmobFree.prototype.acts.loadInterstitial,
 	cr.plugins_.CordovaAdmobFree.prototype.acts.showBanner,
 	cr.plugins_.CordovaAdmobFree.prototype.acts.loadAndShowInterstitial
 ];};

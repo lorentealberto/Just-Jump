@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.digitaltoyz.justjump" version="1.5.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.digitaltoyz.justjump" version="1.5.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Just Jump</name>
 	<description>Jump! Just jump!</description>
 	<author email="ask.digitaltoyz@gmail.com">DigitalToyz</author>
@@ -24,11 +24,10 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
-
 	<preference name="phonegap-version" value="cli-8.0.0"/>
 	<plugin name="cordova-plugin-admob-free">
 		<variable name="ADMOB_APP_ID" value="ca-app-pub-6823378887326581~6517539213" />
 	</plugin>
-	
+
 	<engine name="android" />
 </widget>
